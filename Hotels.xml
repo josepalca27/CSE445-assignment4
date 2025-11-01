@@ -67,6 +67,7 @@
   <Hotel Rating="4.1">
     <Name>Embassy Suites Tempe</Name>
     <Phone>480-897-7444</Phone>
+    <Phone>800-embassy</Phone>
     <Address>
       <Number>4400</Number>
       <Street>S Rural Rd</Street>
@@ -138,5 +139,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
 
 </Hotels>
